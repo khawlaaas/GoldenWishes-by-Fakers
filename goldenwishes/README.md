@@ -49,7 +49,7 @@ Every AI feature runs on **NVIDIA hosted models** (build.nvidia.com), called fro
 3. **Complete a wish.** Open a wish that is almost funded and click **All … MAD** then **Fund**: its mark closes into a gold seal.
 4. **News.** Open the storm in Ouarzazate and click **Help this region**: you land on the wishes of that region.
 5. **Submit a need.** Click **Use an example** (a Darija message with a child's full name and a phone number), then **Structure with AI**: the name and number are gone. Then **Run trust check**.
-6. **Review queue** (the review code is 697e63a340732d91). Run the trust check on "A brand-new premium school backpack": it is flagged, because its 5,000 MAD price is far above similar wishes.
+6. **Review queue** (the review code is **697e63a340732d91**). Run the trust check on "A brand-new premium school backpack": it is flagged, because its 5,000 MAD price is far above similar wishes.
 
 Donations made on the site are demo donations: the team resets them with one click on the Review page.
 
