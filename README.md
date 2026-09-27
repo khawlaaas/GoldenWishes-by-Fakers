@@ -17,6 +17,8 @@ seed_data.sql / seed_data.json        Generated demo data
 golden_wishes_full_dump.sql           Full dump of the demo database
 ```
 
+**Web app:** see [goldenwishes/README.md](goldenwishes/README.md) (stack, environment variables, how to run, Netlify deploy, demo checklist).
+
 ## Database setup
 
 Requirements: PostgreSQL 14+ hosted online (Neon or Supabase, free tier), with the `uuid-ossp`, `pg_trgm` and optionally `vector` extensions. `psql` installed locally.

@@ -1,13 +1,158 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>goldenwishes</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+    <title>Golden Wishes</title>
+    <meta name="description" content="Fund concrete, verified needs for children and families in Morocco, fully or in part. Needs are confirmed by partner associations; an NVIDIA-powered assistant helps you choose.">
+    <meta property="og:title" content="Golden Wishes">
+    <meta property="og:description" content="Concrete needs, verified by partner associations. Fund one fully or chip in.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Fraunces has no Arabic glyphs: Arabic uses Noto Naskh Arabic (display) + IBM Plex Sans Arabic (text). -->
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <!-- Motion One: the only animation library (reveals, count-ups, the fully funded moment). The site works without it. -->
+    <script src="https://cdn.jsdelivr.net/npm/motion@11.11.13/dist/motion.js"></script>
+    <style>
+        /* ---- Golden Wishes design system ----
+           Spacing scale: 4 8 12 16 24 32 48 72 112 px. Grid: 12 columns, 1200px, 24px gutters. */
+        :root { --ease: cubic-bezier(.2,.7,.2,1); }
+        body { margin: 0; background: #FBF6EC; -webkit-font-smoothing: antialiased; }
+        .wrap { max-width: 1248px; margin-inline: auto; padding-inline: 24px; }
+        @media (min-width: 768px) { .wrap { padding-inline: 40px; } }
+
+        .font-display { font-family: 'Fraunces', 'Noto Naskh Arabic', serif; font-optical-sizing: auto; }
+        .font-body { font-family: 'Inter', 'IBM Plex Sans Arabic', sans-serif; }
+        .font-mono2 { font-family: 'IBM Plex Mono', 'IBM Plex Sans Arabic', monospace; }
+        .num { font-variant-numeric: tabular-nums; }
+
+        /* Type scale (fluid): display 44-96, h2 30-48, h3 22-26, body 17, eyebrow 12 */
+        .t-display { font-family: 'Fraunces', serif; font-weight: 400; font-size: clamp(2.75rem, 6.4vw, 6rem); line-height: .98; letter-spacing: -.025em; font-variation-settings: 'opsz' 144; }
+        .t-h2 { font-weight: 400; font-size: clamp(1.875rem, 3.6vw, 3rem); line-height: 1.05; letter-spacing: -.015em; font-variation-settings: 'opsz' 120; }
+        .t-h3 { font-weight: 500; font-size: clamp(1.375rem, 1.8vw, 1.625rem); line-height: 1.2; letter-spacing: -.01em; }
+        .t-eyebrow { font-family: 'IBM Plex Mono', 'IBM Plex Sans Arabic', monospace; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+        .t-story { font-size: 18px; line-height: 1.7; }
+        /* Drop cap on stories (Latin scripts only: it does not suit Arabic). */
+        html:not([lang="ar"]) .story::first-letter { float: inline-start; font-family: 'Fraunces', serif; font-size: 3.6em; line-height: .82; padding-inline-end: 10px; padding-top: 6px; color: #5B2C6E; font-variation-settings: 'opsz' 144; }
+
+        /* Arabic: its own fonts, no letter-spacing or uppercase (they break joined letters), more line height. */
+        html[lang="ar"] .font-display, html[lang="ar"] .t-display { font-family: 'Noto Naskh Arabic', 'Fraunces', serif; line-height: 1.3; letter-spacing: 0; }
+        html[lang="ar"] .t-display { font-size: clamp(2.5rem, 5.6vw, 5.2rem); font-weight: 600; }
+        html[lang="ar"] .t-h2 { line-height: 1.35; font-weight: 600; }
+        html[lang="ar"] .font-body, html[lang="ar"] body { font-family: 'IBM Plex Sans Arabic', 'Inter', sans-serif; }
+        html[lang="ar"] .font-mono2, html[lang="ar"] .t-eyebrow { font-family: 'IBM Plex Sans Arabic', 'IBM Plex Mono', sans-serif; }
+        html[lang="ar"] [class*="tracking-"], html[lang="ar"] .t-eyebrow { letter-spacing: 0 !important; }
+        html[lang="ar"] .uppercase, html[lang="ar"] .t-eyebrow { text-transform: none; }
+        html[lang="ar"] p, html[lang="ar"] li { line-height: 1.85; }
+        [dir="rtl"] .flip-rtl { transform: scaleX(-1); }
+
+        /* Interaction: visible focus, press feedback, drawn underline, animated bars */
+        :focus-visible { outline: 2px solid #5B2C6E; outline-offset: 3px; border-radius: 3px; }
+        input:focus-visible, select:focus-visible, textarea:focus-visible { outline-offset: 0; border-color: #5B2C6E !important; }
+        .press { transition: transform .18s var(--ease), background-color .2s, color .2s; }
+        .press:active { transform: scale(.98); }
+        .link-draw { background-image: linear-gradient(currentColor, currentColor); background-size: 0% 1px; background-repeat: no-repeat; background-position: 0 92%; transition: background-size .3s var(--ease); }
+        .link-draw:hover, .link-draw[aria-current="page"] { background-size: 100% 1px; }
+        [dir="rtl"] .link-draw { background-position: 100% 92%; }
+        .bar-fill { transition: width .9s var(--ease), background-color .4s; }
+        .row-hover { transition: background-color .2s; }
+        .row-hover:hover { background-color: rgba(245,233,226,.55); }
+
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+        }
+    </style>
+</head>
+<body>
+<div id="root"></div>
+
+<!-- Translations (must load before everything that renders text) -->
+<script src="js/i18n/en.js"></script>
+<script src="js/i18n/fr.js"></script>
+<script src="js/i18n/ar.js"></script>
+<script src="js/i18n/i18n.js"></script>
+
+<!-- Shared code -->
+<script src="js/core/ui.js"></script>
+<script src="js/core/motion.js"></script>
+<script src="js/core/router.js"></script>
+<script src="js/core/api.js"></script>
+
+<!-- Data: schema, DB-row mapping, offline snapshot, store (the only data access point) -->
+<script src="js/data/schema.js"></script>
+<script src="js/data/mapping.js"></script>
+<script src="js/data/seed-offers.js"></script>
+<script src="js/data/seed-news.js"></script>
+<script src="js/data/store.js"></script>
+
+<!-- Features -->
+<script src="js/features/cofinance/claim-modal.js"></script>
+<script src="js/features/cofinance/fund-panel.js"></script>
+<script src="js/features/cofinance/offer-detail.js"></script>
+<script src="js/features/browse/filters.js"></script>
+<script src="js/features/browse/offer-list.js"></script>
+<script src="js/features/browse/needs-dashboard.js"></script>
+<script src="js/features/home/home.js"></script>
+<script src="js/features/news/news-page.js"></script>
+<script src="js/features/intake/trust-rules.js"></script>
+<script src="js/features/intake/make-a-wish.js"></script>
+<script src="js/features/intake/review-queue.js"></script>
+<script src="js/features/chat/local-parse.js"></script>
+<script src="js/features/chat/match.js"></script>
+<script src="js/features/chat/allocate.js"></script>
+<script src="js/features/chat/chat-widget.js"></script>
+
+<script>
+    "use strict";
+    /* App shell: header, one view per hash route, footer. */
+    function ComingSoon() {
+        return e(PageShell, { title: t('app.comingSoon'), subtitle: t('app.comingSoonSub') },
+            e('a', { href: '#/', className: 'inline-flex items-center gap-1 font-semibold', style: { color: C.purple } }, e(Icon, { name: 'arrowLeft', size: 16 }), t('app.backToWishes')));
+    }
+
+    function pickView(route) {
+        var p = route.path;
+        var m = p.match(/^\/offer\/([^/]+)$/);
+        if (m) return GW.OfferDetail ? e(GW.OfferDetail, { id: decodeURIComponent(m[1]) }) : e(ComingSoon);
+        if (p === '/needs') return GW.NeedsPage ? e(GW.NeedsPage) : e(ComingSoon);
+        if (p === '/news') return GW.NewsPage ? e(GW.NewsPage) : e(ComingSoon);
+        if (p === '/make-a-wish') return GW.MakeAWishPage ? e(GW.MakeAWishPage) : e(ComingSoon);
+        if (p === '/review') return GW.ReviewPage ? e(GW.ReviewPage) : e(ComingSoon);
+        return e(HomePage, { query: route.query });
+    }
+
+    // While the wishes load from the database (or if they could not be loaded).
+    function LoadState(props) {
+        var st = props.status;
+        if (st.state === 'loading') {
+            return e(PageShell, null, e('p', { className: 'font-mono2 text-sm', style: { color: C.inkSoft } }, t('app.loadingWishes')));
+        }
+        return e(PageShell, { title: t('app.loadError'), subtitle: errorText(st) },
+            e(PrimaryButton, { onClick: function () { GW.store.load(); } }, t('common.tryAgain')));
+    }
+
+    function App() {
+        var route = GW.router.useRoute();
+        var store = GW.useStore();
+        GW.useLang();   // re-render everything when the language changes
+        var st = store.status();
+        var mainRef = React.useRef(null);
+        React.useEffect(function () {
+            if (route.path !== '/') window.scrollTo(0, 0);
+            GW.motion.pageIn(mainRef.current);
+        }, [route.path]);
+        return e('div', { className: 'min-h-screen font-body', style: { backgroundColor: C.paper, color: C.ink } },
+            e(Header, { path: route.path }),
+            e('main', { ref: mainRef, id: 'main' }, st.state === 'ready' || route.path === '/make-a-wish' ? pickView(route) : e(LoadState, { status: st })),
+            e(Footer),
+            GW.ChatWidget ? e(GW.ChatWidget) : null
+        );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(e(App));
+</script>
+</body>
 </html>

@@ -1,0 +1,19 @@
+# Netlify settings. On the Netlify site, set the base directory to "goldenwishes".
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# The functions share code with the browser (schema, mapping, i18n, trust rules, keyword parser).
+[functions]
+  included_files = ["js/data/schema.js", "js/data/mapping.js", "js/i18n/*.js", "js/features/chat/local-parse.js", "js/features/intake/trust-rules.js"]
+
+[dev]
+  port = 8888
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
