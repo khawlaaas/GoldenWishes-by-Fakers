@@ -77,8 +77,7 @@ Donations made on the site are demo donations: the team resets them with one cli
 index.html · js/ (UI, 3 language files, data layer) · netlify/functions/ (one endpoint per file) · scripts/ (embeddings, translations)
 ```
 
-<details>
-<summary><b>Run it locally</b></summary>
+## Run it locally
 
 Requires Node 18+ and the Netlify CLI (`npm install -g netlify-cli`).
 
@@ -101,5 +100,3 @@ Scripts, run from `goldenwishes/`:
 | `node scripts/check-i18n.js` | Check the three language files |
 
 To deploy on Netlify: base directory `goldenwishes`, no build command, and the environment variables above.
-
-</details>
