@@ -31,4 +31,4 @@ everything needed to get it running.
 `https://goldenwishes.netlify.app`
 
 ## Team
-The fakers
+The Fakers
