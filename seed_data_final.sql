@@ -4,9 +4,7 @@ BEGIN;
 
 ALTER TABLE donations DISABLE TRIGGER trg_apply_donation;
 
--- Ensure the AI-intake placeholder organization exists with a fixed, predictable id,
--- so this seed file does not depend on migrations/001_golden_wishes_features.sql
--- having already inserted it in a prior, separate transaction.
+
 DELETE FROM organizations
   WHERE name = 'Independent submissions (to be assigned)'
     AND id <> 'a0000000-0000-0000-0000-000000000000';
