@@ -1,6 +1,6 @@
 # Golden Wishes
 
-**Live:** https://goldenwishes-fakers.netlify.app · GoMyCode × NVIDIA hackathon, track "AI World Impact" · Team: The Fakers
+**Live:** https://goldenwishes-816d6a.netlify.app · GoMyCode × NVIDIA hackathon, track "AI World Impact" · Team: The Fakers
 
 Golden Wishes connects donors with **small, concrete, verified needs** of children and families in Morocco: a blanket, a school bag, a month of medication. Each need is confirmed in person by a partner association and published with an anonymized story. Anyone can fund it fully or in part, in English, French or Arabic.
 
@@ -44,7 +44,7 @@ Every AI feature runs on **NVIDIA hosted models** (build.nvidia.com), called fro
 
 ## Try it (3 minutes)
 
-1. **Open** https://goldenwishes-fakers.netlify.app. The counters show what is still needed right now. Click **ع** at the top: the whole site switches to Arabic, right to left.
+1. **Open** https://goldenwishes-816d6a.netlify.app. The counters show what is still needed right now. Click **ع** at the top: the whole site switches to Arabic, right to left.
 2. **Ask the assistant** (bottom corner): click the Darija example. You get up to 3 wishes, how the 500 MAD is split, a reason for each, and the trace of which NVIDIA model did what. Click **Fund this plan**: the progress bars move.
 3. **Complete a wish.** Open a wish that is almost funded and click **All … MAD** then **Fund**: its mark closes into a gold seal.
 4. **News.** Open the storm in Ouarzazate and click **Help this region**: you land on the wishes of that region.
