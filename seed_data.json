@@ -1,0 +1,1780 @@
+{
+  "organizations": [
+    {
+      "id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "name": "Agadir Association for Children",
+      "org_type": "orphanage",
+      "contact_name": "Bruce Lewis",
+      "contact_phone": "+212 642868828",
+      "contact_email": "dgreen@nguyen-house.com",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "relay_point": "Relay point — Agadir City Hall",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/d1d06045-aca3-4881-8b1e-9a858d21b45f",
+      "created_at": "2025-04-05T17:22:34.466235"
+    },
+    {
+      "id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "name": "Karama NGO for Children Agadir",
+      "org_type": "orphanage",
+      "contact_name": "Amanda Smith",
+      "contact_phone": "+212 689254563",
+      "contact_email": "jenningsjeremiah@johnson.com",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/593bbbad-daa3-4856-9676-ecaf7afaf188",
+      "created_at": "2026-03-10T23:47:23.034852"
+    },
+    {
+      "id": "dacfa3fa-8f05-4121-8059-5a1ebffe6962",
+      "name": "Al Amal Orphanage - Casablanca",
+      "org_type": "orphanage",
+      "contact_name": "William Barnett",
+      "contact_phone": "+212 677827638",
+      "contact_email": "elizabethjones@gilmore.com",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "relay_point": "Relay point — Faculty of Sciences Casablanca",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/37dea800-0fdc-48d2-aed2-c39bd97c2c6c",
+      "created_at": "2025-11-01T05:04:50.577525"
+    },
+    {
+      "id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "name": "Karama NGO for Children Tangier",
+      "org_type": "hospital",
+      "contact_name": "Jennifer Jordan",
+      "contact_phone": "+212 639587039",
+      "contact_email": "marcusmcpherson@weber-phillips.org",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "relay_point": "Relay point — Tangier Public Library",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/be0d5aae-b0dd-4497-9b64-68b76b3d5314",
+      "created_at": "2025-10-04T04:38:33.775222"
+    },
+    {
+      "id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "name": "Al Amal Orphanage - Marrakech",
+      "org_type": "orphanage",
+      "contact_name": "Makayla Carter",
+      "contact_phone": "+212 655667651",
+      "contact_email": "quinnerica@mckenzie.com",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/73e39e36-4446-47fa-b1b4-3c0d9ba1e9f6",
+      "created_at": "2024-12-18T16:59:16.043319"
+    },
+    {
+      "id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "name": "Rabat Association for Children",
+      "org_type": "ngo",
+      "contact_name": "Amanda Hall",
+      "contact_phone": "+212 660992979",
+      "contact_email": "xdominguez@simmons.com",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/d686dd31-51b6-4de6-b903-7d6df0fa0c7f",
+      "created_at": "2025-12-30T10:16:34.075549"
+    },
+    {
+      "id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "name": "Hope Foundation Oujda",
+      "org_type": "ngo",
+      "contact_name": "Bianca Simpson",
+      "contact_phone": "+212 615831819",
+      "contact_email": "cynthiamatthews@ferguson.com",
+      "city": "Oujda",
+      "region": "L'Oriental",
+      "relay_point": "Relay point — Oujda City Hall",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/b6adc7cf-a6ff-48b1-bd2f-478255341fd0",
+      "created_at": "2026-02-27T01:26:48.509490"
+    },
+    {
+      "id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "name": "Ennour Community Center Tangier",
+      "org_type": "orphanage",
+      "contact_name": "Brandy Campbell",
+      "contact_phone": "+212 684093639",
+      "contact_email": "tara42@solomon.com",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "relay_point": "Relay point — ENSAM Tangier",
+      "is_verified": true,
+      "verification_doc_url": "https://verify.goldenwishes.org/docs/047bcdda-6da3-4012-8e5e-bd632d90489a",
+      "created_at": "2026-05-11T06:48:41.047084"
+    }
+  ],
+  "beneficiaries": [
+    {
+      "id": "ce252bd5-e84d-4ed0-853e-e564bcb193f4",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "nickname": "Nour",
+      "age": 3,
+      "gender": "M",
+      "situation": "family_in_difficulty",
+      "health_note": null,
+      "created_at": "2026-04-18T09:20:56.504476"
+    },
+    {
+      "id": "79fc11f9-3918-41da-a7dc-d79ea65f130c",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "nickname": "Yasmine",
+      "age": 4,
+      "gender": "F",
+      "situation": "chronic_illness",
+      "health_note": "Mild asthma",
+      "created_at": "2026-05-16T01:03:13.232525"
+    },
+    {
+      "id": "9af06568-a2d2-4179-bc6f-2fc44582f7e5",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "nickname": "Rayan",
+      "age": 12,
+      "gender": "F",
+      "situation": "family_in_difficulty",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2026-07-04T10:35:12.845701"
+    },
+    {
+      "id": "8361615e-b967-41b0-abf4-f18bb4d47ec4",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Salma",
+      "age": 6,
+      "gender": "M",
+      "situation": "family_in_difficulty",
+      "health_note": "Mild asthma",
+      "created_at": "2026-01-30T15:29:05.056236"
+    },
+    {
+      "id": "83a26837-6790-4c26-bf34-67114adea484",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "nickname": "Ilyas",
+      "age": 8,
+      "gender": "F",
+      "situation": "orphan",
+      "health_note": null,
+      "created_at": "2026-01-16T03:31:02.547853"
+    },
+    {
+      "id": "2c4afb98-bbc6-4916-9abc-d79ec3851a1f",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "nickname": "Zayd",
+      "age": 13,
+      "gender": "F",
+      "situation": "orphan",
+      "health_note": null,
+      "created_at": "2026-05-02T00:37:50.363233"
+    },
+    {
+      "id": "f5fac058-4a8f-4ddb-aa3c-3a004265bbc1",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "nickname": "Nour",
+      "age": 16,
+      "gender": "F",
+      "situation": "hospitalization",
+      "health_note": null,
+      "created_at": "2026-07-30T10:45:35.381333"
+    },
+    {
+      "id": "c1677f46-f8c7-42ee-b106-dd254bc727ba",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Lina",
+      "age": 8,
+      "gender": "F",
+      "situation": "temporary_placement",
+      "health_note": "Mild asthma",
+      "created_at": "2026-07-05T09:42:58.918507"
+    },
+    {
+      "id": "7d0f7e1e-2ddc-492a-9304-23a6afb2e041",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "nickname": "Malak",
+      "age": 8,
+      "gender": "M",
+      "situation": "temporary_placement",
+      "health_note": "Mild asthma",
+      "created_at": "2026-01-15T01:24:43.117337"
+    },
+    {
+      "id": "969b4c46-52c1-43a7-989d-7e368d7021d2",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "nickname": "Youssef",
+      "age": 4,
+      "gender": "M",
+      "situation": "family_in_difficulty",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2026-05-20T02:02:57.966794"
+    },
+    {
+      "id": "66c5461d-23be-40f3-a4f5-ce7557bf4960",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "nickname": "Salma",
+      "age": 13,
+      "gender": "F",
+      "situation": "temporary_placement",
+      "health_note": "Mild asthma",
+      "created_at": "2026-04-16T14:56:05.359330"
+    },
+    {
+      "id": "4e33b420-4504-43a5-8dd8-81695782d927",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Amara",
+      "age": 4,
+      "gender": "F",
+      "situation": "chronic_illness",
+      "health_note": null,
+      "created_at": "2025-11-20T23:52:21.845815"
+    },
+    {
+      "id": "fdd383be-670c-4b13-a0fb-4586071c265f",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Sara",
+      "age": 6,
+      "gender": "F",
+      "situation": "orphan",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2026-05-20T19:38:51.791000"
+    },
+    {
+      "id": "ef3c0f18-43df-4def-8773-ac23c00014d2",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Rayan",
+      "age": 17,
+      "gender": "M",
+      "situation": "chronic_illness",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2025-12-03T09:47:22.990918"
+    },
+    {
+      "id": "588ae410-f9a0-42b7-a157-e6848cd0e1d0",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "nickname": "Lina",
+      "age": 12,
+      "gender": "M",
+      "situation": "temporary_placement",
+      "health_note": "Post-operative recovery",
+      "created_at": "2025-11-07T00:43:57.499271"
+    },
+    {
+      "id": "5b56fda1-4dfd-4741-bed6-776c1a5d6f15",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "nickname": "Zayd",
+      "age": 16,
+      "gender": "M",
+      "situation": "orphan",
+      "health_note": null,
+      "created_at": "2026-02-12T12:32:50.209704"
+    },
+    {
+      "id": "b19822e2-8a67-41a9-b162-975b88eb3892",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "nickname": "Yasmine",
+      "age": 2,
+      "gender": "M",
+      "situation": "temporary_placement",
+      "health_note": null,
+      "created_at": "2026-03-24T17:43:09.082747"
+    },
+    {
+      "id": "8c836a74-51e8-47c5-9773-9f2e3331cb91",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "nickname": "Imane",
+      "age": 3,
+      "gender": "M",
+      "situation": "family_in_difficulty",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2026-08-28T19:39:50.789277"
+    },
+    {
+      "id": "2d9fa752-9873-43c7-a75f-885579a8965f",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "nickname": "Rayan",
+      "age": 9,
+      "gender": "F",
+      "situation": "family_in_difficulty",
+      "health_note": "Post-operative recovery",
+      "created_at": "2025-12-14T16:18:40.381687"
+    },
+    {
+      "id": "c2587f56-5c2d-4ae9-9ff8-eadc529cfb2a",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "nickname": "Kenza",
+      "age": 13,
+      "gender": "F",
+      "situation": "hospitalization",
+      "health_note": "Post-operative recovery",
+      "created_at": "2026-08-22T02:48:07.887012"
+    },
+    {
+      "id": "b250b7f6-f26c-4358-9894-31d7012fbb6c",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "nickname": "Adam",
+      "age": 8,
+      "gender": "M",
+      "situation": "orphan",
+      "health_note": null,
+      "created_at": "2025-10-19T22:54:47.680484"
+    },
+    {
+      "id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "nickname": "Yasmine",
+      "age": 8,
+      "gender": "M",
+      "situation": "orphan",
+      "health_note": "Regular medical follow-up",
+      "created_at": "2026-07-01T10:43:43.223047"
+    },
+    {
+      "id": "cb3d2c1c-802a-4b11-a0e3-7aad9ae80f6f",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "nickname": "Yasmine",
+      "age": 3,
+      "gender": "M",
+      "situation": "chronic_illness",
+      "health_note": null,
+      "created_at": "2025-11-17T04:14:56.383749"
+    },
+    {
+      "id": "d7f71ac5-e0aa-40d5-807f-c1cd9baa6287",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "nickname": "Ilyas",
+      "age": 16,
+      "gender": "M",
+      "situation": "temporary_placement",
+      "health_note": null,
+      "created_at": "2026-09-02T10:30:42.482352"
+    },
+    {
+      "id": "3a030f4e-3514-41e8-875d-2a2f36797aa9",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "nickname": "Yasmine",
+      "age": 16,
+      "gender": "F",
+      "situation": "family_in_difficulty",
+      "health_note": null,
+      "created_at": "2026-07-20T05:48:42.616583"
+    }
+  ],
+  "wishes": [
+    {
+      "id": "678ff448-005a-49a3-b375-3c8df62608eb",
+      "beneficiary_id": "8361615e-b967-41b0-abf4-f18bb4d47ec4",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "Like top serve fact middle argue people poor position religious phone him practice player floor most day.",
+      "estimated_cost": 264.66,
+      "amount_raised": 142.24,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "partially_funded",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-19T14:38:44.023038"
+    },
+    {
+      "id": "b7c927c9-9c33-43ca-98be-4df44cfde63e",
+      "beneficiary_id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "So yourself draw commercial manage environment most attention data protect ahead everyone beautiful finish fight rather not item campaign start hand begin.",
+      "estimated_cost": 347.62,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-04-25T14:42:19.855657"
+    },
+    {
+      "id": "4155fe26-d8ad-42db-86c2-cfe9b305a344",
+      "beneficiary_id": "66c5461d-23be-40f3-a4f5-ce7557bf4960",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "category": "essentials",
+      "title": "A wool blanket for winter",
+      "description": "Thick enough for a cold night without heating.",
+      "story_context": "Memory process director former to current environment fund deal each order project purpose new career thus gun spring five stock have vote kitchen certain.",
+      "estimated_cost": 167.41,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Oujda City Hall",
+      "city": "Oujda",
+      "region": "L'Oriental",
+      "tags": [
+        "winter",
+        "comfort",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-26T15:46:42.427046"
+    },
+    {
+      "id": "ddeb7271-03e1-4c11-9097-8db6f965da80",
+      "beneficiary_id": "ef3c0f18-43df-4def-8773-ac23c00014d2",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "creative",
+      "title": "A drawing set for a child who draws every day",
+      "description": "Colored pencils, a sketchpad, and a box of paints.",
+      "story_context": "Learn specific yes rather national generation seven air because alone send save loss difference house really act fine.",
+      "estimated_cost": 122.28,
+      "amount_raised": 122.28,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "delivered",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "creativity",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-08-28T07:43:06.858682"
+    },
+    {
+      "id": "203ebd4a-f349-4e39-9e79-8e0524b03c50",
+      "beneficiary_id": "588ae410-f9a0-42b7-a157-e6848cd0e1d0",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "category": "clothing",
+      "title": "A winter coat that fits",
+      "description": "Hers is torn and outgrown from last year.",
+      "story_context": "Ground foreign benefit property these few true suddenly gas force strong spring.",
+      "estimated_cost": 159.79,
+      "amount_raised": 17.39,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "partially_funded",
+      "relay_point": "Relay point — Tangier Public Library",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "winter",
+        "clothing"
+      ],
+      "deadline": "2026-10-13",
+      "created_at": "2026-08-02T09:07:44.229161"
+    },
+    {
+      "id": "d7d9ef36-b121-4313-bf79-83288a1fb203",
+      "beneficiary_id": "3a030f4e-3514-41e8-875d-2a2f36797aa9",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Health region test group for the friend what be feeling third.",
+      "estimated_cost": 324.95,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Tangier",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-31T02:52:57.838553"
+    },
+    {
+      "id": "d34313a8-996f-4c30-a5af-a4f58a4e186e",
+      "beneficiary_id": "fdd383be-670c-4b13-a0fb-4586071c265f",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "Meeting movement meeting successful apply across eight fast class opportunity form throughout top eat recent water hit one less feel anyone dog each just.",
+      "estimated_cost": 216.46,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-17T17:20:20.487336"
+    },
+    {
+      "id": "642668ef-0a30-43d2-8ed6-21e867c1a2cf",
+      "beneficiary_id": "588ae410-f9a0-42b7-a157-e6848cd0e1d0",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "category": "education",
+      "title": "A full set of school books",
+      "description": "This year's required textbooks, bought new so nothing is missing.",
+      "story_context": "Word simply key less join worry arrive mean half outside from garden bag include base five various continue hope main.",
+      "estimated_cost": 413.45,
+      "amount_raised": 413.45,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "delivered",
+      "relay_point": "Relay point — Tangier Public Library",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "school",
+        "textbooks"
+      ],
+      "deadline": "2026-12-12",
+      "created_at": "2026-05-04T01:20:35.430382"
+    },
+    {
+      "id": "6a678fbd-837d-47c0-8123-2171e595e97e",
+      "beneficiary_id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "health",
+      "title": "A month of chronic illness medication",
+      "description": "Essential medication to cover one month of treatment.",
+      "story_context": "Individual central safe gun all impact up officer goal relate often her agency.",
+      "estimated_cost": 694.67,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "open",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "health",
+        "critical",
+        "medical"
+      ],
+      "deadline": "2026-10-09",
+      "created_at": "2026-05-03T16:38:30.862532"
+    },
+    {
+      "id": "9128c9d0-208a-45cf-88c6-8ca4f78d5967",
+      "beneficiary_id": "2d9fa752-9873-43c7-a75f-885579a8965f",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "category": "health",
+      "title": "A month of chronic illness medication",
+      "description": "Essential medication to cover one month of treatment.",
+      "story_context": "Capital main community tax sit court actually feel dog need majority recognize cause tree company half man front.",
+      "estimated_cost": 716.88,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Tangier",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "health",
+        "critical",
+        "medical"
+      ],
+      "deadline": "2026-12-15",
+      "created_at": "2026-08-15T04:38:50.951601"
+    },
+    {
+      "id": "70d74b07-9e58-4fd1-bf80-204818d54132",
+      "beneficiary_id": "5b56fda1-4dfd-4741-bed6-776c1a5d6f15",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "clothing",
+      "title": "A winter coat that fits",
+      "description": "Hers is torn and outgrown from last year.",
+      "story_context": "Give approach deal growth child image wall name best southern field finish.",
+      "estimated_cost": 241.94,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "open",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "winter",
+        "clothing"
+      ],
+      "deadline": null,
+      "created_at": "2026-06-03T17:46:58.444767"
+    },
+    {
+      "id": "0ccd4fda-bc99-47e8-9cc2-35f1f7f49004",
+      "beneficiary_id": "b19822e2-8a67-41a9-b162-975b88eb3892",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "essentials",
+      "title": "A wool blanket for winter",
+      "description": "Thick enough for a cold night without heating.",
+      "story_context": "Many room explain hot culture family small hit others daughter his beyond indeed push executive should effect event feeling agency.",
+      "estimated_cost": 209.59,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "winter",
+        "comfort",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-31T02:07:26.717605"
+    },
+    {
+      "id": "7d5f8433-a2f0-4c68-86e3-d98debf90ca4",
+      "beneficiary_id": "c1677f46-f8c7-42ee-b106-dd254bc727ba",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "health",
+      "title": "A course of physical therapy",
+      "description": "Ten rehabilitation sessions needed after a surgery.",
+      "story_context": "Along yet sister deal study area friend shoulder every fine make wife speech whatever piece picture show need play up.",
+      "estimated_cost": 847.95,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "open",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "health",
+        "medical",
+        "critical"
+      ],
+      "deadline": "2026-12-17",
+      "created_at": "2026-08-16T15:59:39.162117"
+    },
+    {
+      "id": "33f4a12c-a7be-416f-a3a4-aadea4f0cfc8",
+      "beneficiary_id": "79fc11f9-3918-41da-a7dc-d79ea65f130c",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "technology",
+      "title": "A tablet for remote classes",
+      "description": "Also used by the shelter for evening tutoring sessions.",
+      "story_context": "Food hear project whatever nothing perhaps room it agency police attorney small work see.",
+      "estimated_cost": 1557.39,
+      "amount_raised": 451.37,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "partially_funded",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "education",
+        "technology"
+      ],
+      "deadline": "2026-11-04",
+      "created_at": "2026-09-16T10:37:52.797148"
+    },
+    {
+      "id": "a6743709-0996-4a30-b9f4-65e4e92378a3",
+      "beneficiary_id": "f5fac058-4a8f-4ddb-aa3c-3a004265bbc1",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "Around recent long at pretty money business control beyond bag general deep everything staff baby say.",
+      "estimated_cost": 307.43,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-08-18T17:21:47.263068"
+    },
+    {
+      "id": "40c59527-e1e3-4e29-9c1e-23702045f785",
+      "beneficiary_id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "Too wife rule treatment coach wall ball simple eight believe although end physical class ball south share table interest.",
+      "estimated_cost": 245.0,
+      "amount_raised": 245.0,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "funded",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-08-31T23:52:30.539702"
+    },
+    {
+      "id": "eafa2d07-6ce2-4c7e-8a83-f2ef4f903844",
+      "beneficiary_id": "9af06568-a2d2-4179-bc6f-2fc44582f7e5",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "Themselves whatever cover Mrs wait appear the wall prevent deal writer young air near seat can second knowledge responsibility already race.",
+      "estimated_cost": 245.83,
+      "amount_raised": 245.83,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "delivered",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": "2026-10-11",
+      "created_at": "2026-08-19T18:15:34.749880"
+    },
+    {
+      "id": "e670a3fd-18fd-450e-a09d-fc7607b2c9bd",
+      "beneficiary_id": "8c836a74-51e8-47c5-9773-9f2e3331cb91",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Sign they five her edge fast herself unit forward protect police modern whether action floor executive music source itself international all.",
+      "estimated_cost": 375.88,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-08-10T06:48:45.572029"
+    },
+    {
+      "id": "d3aa4316-3f88-4d55-90e6-c3bd905bec29",
+      "beneficiary_id": "9af06568-a2d2-4179-bc6f-2fc44582f7e5",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Claim century offer include wife room rate stop stage common reduce woman majority style station dark.",
+      "estimated_cost": 355.43,
+      "amount_raised": 355.43,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "funded",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-05-19T17:04:59.502912"
+    },
+    {
+      "id": "4f085402-8a5d-4103-bd9b-2aadf5e075f1",
+      "beneficiary_id": "cb3d2c1c-802a-4b11-a0e3-7aad9ae80f6f",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "education",
+      "title": "A full set of school books",
+      "description": "This year's required textbooks, bought new so nothing is missing.",
+      "story_context": "Opportunity Mrs assume hear money but edge power skin happen feel stay stage either health skin same foot.",
+      "estimated_cost": 441.75,
+      "amount_raised": 46.25,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "partially_funded",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "school",
+        "textbooks"
+      ],
+      "deadline": "2026-12-11",
+      "created_at": "2026-06-05T03:23:47.439427"
+    },
+    {
+      "id": "21690820-6d98-4eeb-9997-804af99857cb",
+      "beneficiary_id": "969b4c46-52c1-43a7-989d-7e368d7021d2",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "Million matter leader nice may three always ahead hit along blue small challenge account coach lose write nor.",
+      "estimated_cost": 215.54,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": "2026-10-15",
+      "created_at": "2026-05-19T10:26:36.188221"
+    },
+    {
+      "id": "a8adb2e2-bd28-4aa6-a6ad-4fab17023667",
+      "beneficiary_id": "d7f71ac5-e0aa-40d5-807f-c1cd9baa6287",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "category": "clothing",
+      "title": "A winter coat that fits",
+      "description": "Hers is torn and outgrown from last year.",
+      "story_context": "Several class purpose daughter note action daughter home suddenly candidate whatever such service leg federal.",
+      "estimated_cost": 165.54,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Tangier Public Library",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "winter",
+        "clothing"
+      ],
+      "deadline": null,
+      "created_at": "2026-09-18T01:45:48.066717"
+    },
+    {
+      "id": "351eb4c5-2e3d-4def-9082-5e4ee9e853e3",
+      "beneficiary_id": "66c5461d-23be-40f3-a4f5-ce7557bf4960",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Tough foreign far develop trade whatever fine discuss interest ten quality direction responsibility instead indicate behavior rather computer another wonder key.",
+      "estimated_cost": 403.12,
+      "amount_raised": 101.05,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "partially_funded",
+      "relay_point": "Relay point — Oujda City Hall",
+      "city": "Oujda",
+      "region": "L'Oriental",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": "2026-10-08",
+      "created_at": "2026-08-11T07:32:22.087924"
+    },
+    {
+      "id": "f011c8a2-86bf-43b4-9d43-11bc871d433e",
+      "beneficiary_id": "9af06568-a2d2-4179-bc6f-2fc44582f7e5",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "category": "sport",
+      "title": "A ball and a pair of football boots",
+      "description": "For the kid who dreams of joining the neighborhood team.",
+      "story_context": "Especially say condition day exactly study big ball authority man half hotel.",
+      "estimated_cost": 263.54,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "tags": [
+        "sport",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-05-29T13:18:22.936321"
+    },
+    {
+      "id": "65934663-cbff-42af-84ea-88ac0d43ea79",
+      "beneficiary_id": "3a030f4e-3514-41e8-875d-2a2f36797aa9",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "category": "creative",
+      "title": "A drawing set for a child who draws every day",
+      "description": "Colored pencils, a sketchpad, and a box of paints.",
+      "story_context": "Eat give expect difficult true able whole hit color form might.",
+      "estimated_cost": 150.97,
+      "amount_raised": 150.97,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "funded",
+      "relay_point": "Relay point — ENSAM Tangier",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "creativity",
+        "hobby"
+      ],
+      "deadline": null,
+      "created_at": "2026-08-08T08:08:59.115982"
+    },
+    {
+      "id": "9cbeb42d-e8e3-4428-8e64-821641debda8",
+      "beneficiary_id": "8c836a74-51e8-47c5-9773-9f2e3331cb91",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "health",
+      "title": "A month of chronic illness medication",
+      "description": "Essential medication to cover one month of treatment.",
+      "story_context": "Note theory five understand something economy race within resource actually writer send real rate discover production rather kind past hold very letter.",
+      "estimated_cost": 671.07,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "health",
+        "critical",
+        "medical"
+      ],
+      "deadline": "2026-10-21",
+      "created_at": "2026-09-04T05:08:53.971504"
+    },
+    {
+      "id": "1f6af6da-7838-4307-87a8-95fa942a9252",
+      "beneficiary_id": "8c836a74-51e8-47c5-9773-9f2e3331cb91",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "Blue myself building sing least force minute water news almost other statement suggest today he on food myself dark cover happy street president.",
+      "estimated_cost": 283.46,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "open",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": null,
+      "created_at": "2026-09-26T14:34:33.851071"
+    },
+    {
+      "id": "f8f4d512-7bd1-4e4f-9abc-2809f428931b",
+      "beneficiary_id": "83a26837-6790-4c26-bf34-67114adea484",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "During key she pass go life side develop theory fish run somebody either apply consider half ask growth they cover skill professor before high.",
+      "estimated_cost": 230.83,
+      "amount_raised": 230.83,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "funded",
+      "relay_point": "Relay point — Oujda City Hall",
+      "city": "Oujda",
+      "region": "L'Oriental",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": "2026-10-07",
+      "created_at": "2026-08-06T15:28:51.020926"
+    },
+    {
+      "id": "7ad8f096-c6e6-48cf-b89e-36a5e1b0d906",
+      "beneficiary_id": "4e33b420-4504-43a5-8dd8-81695782d927",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Purpose wonder degree computer these bar a big career foreign response security forward pick trip game medical plan member though person.",
+      "estimated_cost": 402.31,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "open",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": "2026-12-12",
+      "created_at": "2026-08-31T09:17:08.941784"
+    },
+    {
+      "id": "bac9d3b7-45f1-43fe-bb9b-d369074c410f",
+      "beneficiary_id": "ef3c0f18-43df-4def-8773-ac23c00014d2",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "technology",
+      "title": "A tablet for remote classes",
+      "description": "Also used by the shelter for evening tutoring sessions.",
+      "story_context": "By maintain recent lose meet yes low Mr respond position live shoulder arm rise cause soldier must whose including model.",
+      "estimated_cost": 2024.63,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "open",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "education",
+        "technology"
+      ],
+      "deadline": "2026-10-22",
+      "created_at": "2026-06-03T13:21:47.489493"
+    },
+    {
+      "id": "8c0a1b0a-2d87-41af-adf9-0d7a9f4d455d",
+      "beneficiary_id": "2c4afb98-bbc6-4916-9abc-d79ec3851a1f",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "health",
+      "title": "A course of physical therapy",
+      "description": "Ten rehabilitation sessions needed after a surgery.",
+      "story_context": "Material particular general measure direction agreement seek cover word respond night describe third.",
+      "estimated_cost": 809.91,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "open",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "health",
+        "medical",
+        "critical"
+      ],
+      "deadline": "2026-11-23",
+      "created_at": "2026-06-11T08:56:22.678900"
+    },
+    {
+      "id": "866dabba-ff09-4c17-baf7-d0ed14975737",
+      "beneficiary_id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "health",
+      "title": "A month of chronic illness medication",
+      "description": "Essential medication to cover one month of treatment.",
+      "story_context": "Party involve kind region nearly able night contain include window majority door more.",
+      "estimated_cost": 824.3,
+      "amount_raised": 824.3,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "funded",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "health",
+        "critical",
+        "medical"
+      ],
+      "deadline": "2026-10-15",
+      "created_at": "2026-04-27T19:08:07.427518"
+    },
+    {
+      "id": "bd19bdca-bb22-4062-960c-1445d2ea41e8",
+      "beneficiary_id": "fdd383be-670c-4b13-a0fb-4586071c265f",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "Suggest how early born option high late step mind mind under near business onto rather show area society old beyond teacher strong feeling somebody.",
+      "estimated_cost": 285.86,
+      "amount_raised": 285.86,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "funded",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": null,
+      "created_at": "2026-05-05T22:18:35.337611"
+    },
+    {
+      "id": "5be3244c-87b1-48b2-aae4-c8ed1c168b9c",
+      "beneficiary_id": "588ae410-f9a0-42b7-a157-e6848cd0e1d0",
+      "organization_id": "3c239bc1-e360-4a06-bec8-c0700145e38f",
+      "category": "essentials",
+      "title": "Two weeks of groceries, family of five",
+      "description": "Enough to cook full meals for two weeks.",
+      "story_context": "Identify model officer from its add possible gun throw party look bit.",
+      "estimated_cost": 461.04,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "high",
+      "status": "open",
+      "relay_point": "Relay point — Tangier Public Library",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "food",
+        "family",
+        "urgent"
+      ],
+      "deadline": "2026-10-05",
+      "created_at": "2026-05-23T15:32:38.047410"
+    },
+    {
+      "id": "c3c30375-eacb-4b98-b6b7-66c23137e8a4",
+      "beneficiary_id": "401d541b-fdad-4aa7-9974-7a59092d4bc3",
+      "organization_id": "0e3d2e3a-e60d-4fac-9d2a-16a3244b4f4e",
+      "category": "family_care",
+      "title": "Three months of infant formula",
+      "description": "One tin a month, for a baby whose family is between jobs.",
+      "story_context": "Final late small particularly evidence deal agent since table break create soldier position than effort care trip on former there official visit from.",
+      "estimated_cost": 359.77,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "open",
+      "relay_point": "Relay point — Agadir City Hall",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "baby",
+        "nutrition",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-10T18:02:46.606036"
+    },
+    {
+      "id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "beneficiary_id": "3a030f4e-3514-41e8-875d-2a2f36797aa9",
+      "organization_id": "72fe2390-b53f-4d64-a97a-89b146287aaf",
+      "category": "education",
+      "title": "A full set of school books",
+      "description": "This year's required textbooks, bought new so nothing is missing.",
+      "story_context": "Imagine wait lose popular we section allow accept true voice well option class start detail as action serve less offer eight.",
+      "estimated_cost": 402.67,
+      "amount_raised": 244.1,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "partially_funded",
+      "relay_point": "Relay point — ENSAM Tangier",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "tags": [
+        "school",
+        "textbooks"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-27T06:02:03.126538"
+    },
+    {
+      "id": "eb61c8b9-44ed-4229-a4c7-a1edaad298d1",
+      "beneficiary_id": "66c5461d-23be-40f3-a4f5-ce7557bf4960",
+      "organization_id": "1783a76b-69f8-44e9-8612-f6e14491718c",
+      "category": "education",
+      "title": "A school bag, fully stocked",
+      "description": "Notebooks, pens, a compass set, and a bag sturdy enough to last the whole year.",
+      "story_context": "Glass student begin low service support beat brother loss agreement candidate though good particular then character back sense step.",
+      "estimated_cost": 211.53,
+      "amount_raised": 0.0,
+      "currency": "MAD",
+      "urgency": "critical",
+      "status": "open",
+      "relay_point": "Relay point — Oujda City Hall",
+      "city": "Oujda",
+      "region": "L'Oriental",
+      "tags": [
+        "school",
+        "supplies",
+        "back-to-school"
+      ],
+      "deadline": "2026-11-04",
+      "created_at": "2026-04-30T05:33:00.430875"
+    },
+    {
+      "id": "d530b865-d09b-40d2-a3a8-45a703b02998",
+      "beneficiary_id": "79fc11f9-3918-41da-a7dc-d79ea65f130c",
+      "organization_id": "e8547f48-86d0-44d8-a11e-b2a99bdc229e",
+      "category": "essentials",
+      "title": "A wool blanket for winter",
+      "description": "Thick enough for a cold night without heating.",
+      "story_context": "Method rock simple bring detail new this out perform mouth forget fear real live world during black rock conference PM foot suffer travel another.",
+      "estimated_cost": 191.76,
+      "amount_raised": 191.76,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "funded",
+      "relay_point": "Relay point — ENSAM Agadir",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "tags": [
+        "winter",
+        "comfort",
+        "urgent"
+      ],
+      "deadline": null,
+      "created_at": "2026-05-23T09:49:05.950105"
+    },
+    {
+      "id": "11d14ff9-5309-47ec-8c1b-34bd4299d845",
+      "beneficiary_id": "ef3c0f18-43df-4def-8773-ac23c00014d2",
+      "organization_id": "e5188eb7-abfc-4697-b18d-60c5884a4403",
+      "category": "technology",
+      "title": "A tablet for remote classes",
+      "description": "Also used by the shelter for evening tutoring sessions.",
+      "story_context": "Million page before different even sell to technology size claim letter program though first rise minute factor create.",
+      "estimated_cost": 2188.97,
+      "amount_raised": 2188.97,
+      "currency": "MAD",
+      "urgency": "low",
+      "status": "delivered",
+      "relay_point": "Relay point — Marrakech Public Library",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "tags": [
+        "education",
+        "technology"
+      ],
+      "deadline": null,
+      "created_at": "2026-06-15T10:33:16.675135"
+    },
+    {
+      "id": "27fbb1eb-ca34-48f1-9dc3-7a480ab3579d",
+      "beneficiary_id": "f5fac058-4a8f-4ddb-aa3c-3a004265bbc1",
+      "organization_id": "1531a2f9-00a2-4857-87b9-1c30d6bdce9f",
+      "category": "education",
+      "title": "A full set of school books",
+      "description": "This year's required textbooks, bought new so nothing is missing.",
+      "story_context": "Place war avoid black ready worry official eye south push final law whose available foreign right enjoy appear carry itself candidate.",
+      "estimated_cost": 356.66,
+      "amount_raised": 208.26,
+      "currency": "MAD",
+      "urgency": "medium",
+      "status": "partially_funded",
+      "relay_point": "Relay point — ENSAM Rabat",
+      "city": "Rabat",
+      "region": "Rabat-Sale-Kenitra",
+      "tags": [
+        "school",
+        "textbooks"
+      ],
+      "deadline": null,
+      "created_at": "2026-07-28T05:13:36.188265"
+    }
+  ],
+  "donors": [
+    {
+      "id": "eb865e0c-5994-483f-b2ce-1b855e54a63f",
+      "full_name": "Emily Rowe",
+      "email": "davidlewis@example.org",
+      "phone": "+212 636445607",
+      "preferred_categories": [
+        "technology",
+        "education"
+      ],
+      "total_donated": 512.5,
+      "created_at": "2026-03-19T03:23:13.319503"
+    },
+    {
+      "id": "5bd540e7-438a-4765-a271-cd67ae6e6fde",
+      "full_name": "Jessica Lowe",
+      "email": "manuel74@example.net",
+      "phone": "+212 699152472",
+      "preferred_categories": [
+        "clothing",
+        "sport"
+      ],
+      "total_donated": 241.59,
+      "created_at": "2025-11-17T02:55:54.484805"
+    },
+    {
+      "id": "cb30e568-2e91-42d6-9e34-677d6feb7533",
+      "full_name": "Sylvia Gonzalez",
+      "email": "shane16@example.org",
+      "phone": "+212 626726926",
+      "preferred_categories": [
+        "health",
+        "sport",
+        "creative"
+      ],
+      "total_donated": 223.47,
+      "created_at": "2026-02-15T00:33:23.253594"
+    },
+    {
+      "id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "full_name": "Shaun Martinez",
+      "email": "gregorynorris@example.org",
+      "phone": "+212 699508850",
+      "preferred_categories": [
+        "clothing",
+        "family_care"
+      ],
+      "total_donated": 299.27,
+      "created_at": "2025-10-17T13:08:49.066096"
+    },
+    {
+      "id": "e4b002a9-95cf-413c-9eb7-eb2e9c2ad461",
+      "full_name": "Jeffery Adams",
+      "email": "timothy42@example.org",
+      "phone": "+212 649682169",
+      "preferred_categories": [
+        "creative",
+        "essentials",
+        "family_care"
+      ],
+      "total_donated": 471.22,
+      "created_at": "2026-01-13T22:06:46.023551"
+    },
+    {
+      "id": "71f0dd26-3ebf-47a2-ad7f-43cb3e1c818c",
+      "full_name": "David Jones",
+      "email": "davismisty@example.org",
+      "phone": "+212 699245317",
+      "preferred_categories": [
+        "creative",
+        "health"
+      ],
+      "total_donated": 170.92,
+      "created_at": "2026-02-28T18:33:45.601596"
+    },
+    {
+      "id": "add3f4b3-d906-4bcf-9a33-0ee78bc54d62",
+      "full_name": "Jennifer Coleman",
+      "email": "bakercynthia@example.net",
+      "phone": "+212 686384014",
+      "preferred_categories": [
+        "technology",
+        "health"
+      ],
+      "total_donated": 912.43,
+      "created_at": "2026-05-04T07:44:37.960474"
+    },
+    {
+      "id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "full_name": "Devin Proctor",
+      "email": "wramirez@example.net",
+      "phone": "+212 610054484",
+      "preferred_categories": [
+        "health",
+        "essentials"
+      ],
+      "total_donated": 1039.06,
+      "created_at": "2025-11-21T07:15:24.372107"
+    },
+    {
+      "id": "7a5e3227-70a9-415b-b992-229e9e7a1c52",
+      "full_name": "Allison Rhodes",
+      "email": "trichards@example.org",
+      "phone": "+212 667698610",
+      "preferred_categories": [
+        "clothing",
+        "family_care",
+        "technology"
+      ],
+      "total_donated": 0.0,
+      "created_at": "2026-04-07T01:13:11.457348"
+    },
+    {
+      "id": "7759eb6b-8954-420d-a99d-ca7301667f08",
+      "full_name": "Carlos Payne",
+      "email": "gkoch@example.net",
+      "phone": "+212 669345683",
+      "preferred_categories": [
+        "family_care",
+        "health",
+        "sport"
+      ],
+      "total_donated": 70.24,
+      "created_at": "2025-09-29T02:46:29.654039"
+    },
+    {
+      "id": "69f440e1-b3c4-4a8f-8601-d1997352f48e",
+      "full_name": "Matthew Oneal",
+      "email": "ashley54@example.net",
+      "phone": "+212 632775593",
+      "preferred_categories": [
+        "essentials",
+        "creative",
+        "health"
+      ],
+      "total_donated": 30.82,
+      "created_at": "2026-02-05T00:50:29.314910"
+    },
+    {
+      "id": "8c4a19cf-abac-4920-b147-749dea396eb0",
+      "full_name": "Jeremy Lawrence",
+      "email": "aaron79@example.net",
+      "phone": "+212 699100953",
+      "preferred_categories": [
+        "clothing",
+        "education",
+        "essentials"
+      ],
+      "total_donated": 318.63,
+      "created_at": "2026-07-13T18:45:59.090998"
+    },
+    {
+      "id": "2895f560-8fad-4303-a507-436adc08e43f",
+      "full_name": "Jeffrey Lynch",
+      "email": "jennifer00@example.com",
+      "phone": "+212 651663795",
+      "preferred_categories": [
+        "family_care"
+      ],
+      "total_donated": 90.81,
+      "created_at": "2026-04-26T03:15:07.995904"
+    },
+    {
+      "id": "fff8d0b2-05a7-4527-a907-1a233826b1e9",
+      "full_name": "Alexandria Nelson",
+      "email": "martinezjames@example.com",
+      "phone": "+212 629777514",
+      "preferred_categories": [
+        "education"
+      ],
+      "total_donated": 223.28,
+      "created_at": "2026-06-10T02:16:10.128644"
+    },
+    {
+      "id": "411f47fa-e94a-47ca-aa81-7a085dea24c2",
+      "full_name": "Margaret Dalton",
+      "email": "benjamin80@example.org",
+      "phone": "+212 642862209",
+      "preferred_categories": [
+        "essentials",
+        "family_care"
+      ],
+      "total_donated": 250.64,
+      "created_at": "2026-02-24T07:09:21.885875"
+    }
+  ],
+  "donations": [
+    {
+      "id": "03d72b3e-f970-42b5-9674-cc7e496c0a98",
+      "donor_id": "411f47fa-e94a-47ca-aa81-7a085dea24c2",
+      "wish_id": "bd19bdca-bb22-4062-960c-1445d2ea41e8",
+      "amount": 97.42,
+      "donated_at": "2026-07-05T20:53:33.841185",
+      "message": "Wishing you all the best!"
+    },
+    {
+      "id": "8ace9c18-631b-43df-840e-4114433ff5d4",
+      "donor_id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "wish_id": "866dabba-ff09-4c17-baf7-d0ed14975737",
+      "amount": 176.72,
+      "donated_at": "2026-06-20T05:00:41.625707",
+      "message": "Wishing you all the best!"
+    },
+    {
+      "id": "814a69e0-a24d-4288-b9ec-f89115efe6ea",
+      "donor_id": "411f47fa-e94a-47ca-aa81-7a085dea24c2",
+      "wish_id": "678ff448-005a-49a3-b375-3c8df62608eb",
+      "amount": 104.36,
+      "donated_at": "2026-04-28T21:42:18.131276",
+      "message": null
+    },
+    {
+      "id": "1248547d-3b8e-434a-8453-18636f45b84b",
+      "donor_id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "wish_id": "bd19bdca-bb22-4062-960c-1445d2ea41e8",
+      "amount": 41.62,
+      "donated_at": "2026-05-30T05:16:14.996863",
+      "message": null
+    },
+    {
+      "id": "434717ff-4852-46d6-b2f5-d70e2ba703ed",
+      "donor_id": "eb865e0c-5994-483f-b2ce-1b855e54a63f",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 121.08,
+      "donated_at": "2026-06-14T23:46:14.444387",
+      "message": null
+    },
+    {
+      "id": "1117e6e6-de5f-4174-81e0-babe91d511ed",
+      "donor_id": "cb30e568-2e91-42d6-9e34-677d6feb7533",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 165.32,
+      "donated_at": "2026-09-22T14:19:30.860086",
+      "message": null
+    },
+    {
+      "id": "df73874f-e53e-4db8-9073-140fae6d7d56",
+      "donor_id": "7759eb6b-8954-420d-a99d-ca7301667f08",
+      "wish_id": "27fbb1eb-ca34-48f1-9dc3-7a480ab3579d",
+      "amount": 70.24,
+      "donated_at": "2026-08-08T01:24:05.872492",
+      "message": "For your smile."
+    },
+    {
+      "id": "b75fbfde-8d24-4a93-ac11-6bea0ab73a5d",
+      "donor_id": "add3f4b3-d906-4bcf-9a33-0ee78bc54d62",
+      "wish_id": "11d14ff9-5309-47ec-8c1b-34bd4299d845",
+      "amount": 912.43,
+      "donated_at": "2026-07-20T09:14:53.553366",
+      "message": null
+    },
+    {
+      "id": "95d21dcb-e935-485c-bff0-77e57f25c08c",
+      "donor_id": "411f47fa-e94a-47ca-aa81-7a085dea24c2",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 48.86,
+      "donated_at": "2026-05-09T23:17:48.124009",
+      "message": "For your smile."
+    },
+    {
+      "id": "89a82aa6-6f59-4530-b2bb-c376fff297b7",
+      "donor_id": "e4b002a9-95cf-413c-9eb7-eb2e9c2ad461",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 156.32,
+      "donated_at": "2026-09-07T07:37:57.526169",
+      "message": "With love."
+    },
+    {
+      "id": "446159c8-d338-4f1a-b952-db36b671662d",
+      "donor_id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "wish_id": "11d14ff9-5309-47ec-8c1b-34bd4299d845",
+      "amount": 693.43,
+      "donated_at": "2026-06-24T14:23:15.565542",
+      "message": "With love."
+    },
+    {
+      "id": "ccb956c3-8c1b-414f-83e7-2065176061f0",
+      "donor_id": "5bd540e7-438a-4765-a271-cd67ae6e6fde",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 149.39,
+      "donated_at": "2026-06-30T00:07:28.940405",
+      "message": "Wishing you all the best!"
+    },
+    {
+      "id": "2bdd823e-adbb-4ce8-8b6d-75bbca38fc04",
+      "donor_id": "71f0dd26-3ebf-47a2-ad7f-43cb3e1c818c",
+      "wish_id": "4f085402-8a5d-4103-bd9b-2aadf5e075f1",
+      "amount": 84.22,
+      "donated_at": "2026-06-15T21:45:54.409404",
+      "message": null
+    },
+    {
+      "id": "413baa3f-749a-4c73-a730-b5896b8bd69e",
+      "donor_id": "cb30e568-2e91-42d6-9e34-677d6feb7533",
+      "wish_id": "203ebd4a-f349-4e39-9e79-8e0524b03c50",
+      "amount": 29.03,
+      "donated_at": "2026-05-09T00:40:23.767400",
+      "message": "For your smile."
+    },
+    {
+      "id": "f042fc55-1a68-4c4e-bec8-7a012174fa43",
+      "donor_id": "8c4a19cf-abac-4920-b147-749dea396eb0",
+      "wish_id": "33f4a12c-a7be-416f-a3a4-aadea4f0cfc8",
+      "amount": 182.32,
+      "donated_at": "2026-07-31T04:43:26.115122",
+      "message": "For your smile."
+    },
+    {
+      "id": "592ed57c-aa0a-4af0-a810-98aefa155c1e",
+      "donor_id": "71f0dd26-3ebf-47a2-ad7f-43cb3e1c818c",
+      "wish_id": "bd19bdca-bb22-4062-960c-1445d2ea41e8",
+      "amount": 86.7,
+      "donated_at": "2026-05-23T01:46:12.387908",
+      "message": "For your smile."
+    },
+    {
+      "id": "cae8c3ae-0b4d-43c9-bed6-48fdb6d32710",
+      "donor_id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "wish_id": "ddeb7271-03e1-4c11-9097-8db6f965da80",
+      "amount": 54.27,
+      "donated_at": "2026-08-20T11:05:03.313553",
+      "message": "For your smile."
+    },
+    {
+      "id": "8fd2dfff-99c1-42ac-beca-5228efe848f0",
+      "donor_id": "fff8d0b2-05a7-4527-a907-1a233826b1e9",
+      "wish_id": "678ff448-005a-49a3-b375-3c8df62608eb",
+      "amount": 118.92,
+      "donated_at": "2026-06-06T22:04:17.595333",
+      "message": null
+    },
+    {
+      "id": "95aa1cf6-e76e-4cf2-bdc9-a58b96404a47",
+      "donor_id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "wish_id": "866dabba-ff09-4c17-baf7-d0ed14975737",
+      "amount": 22.31,
+      "donated_at": "2026-07-21T07:07:39.436653",
+      "message": "With love."
+    },
+    {
+      "id": "a79b18b9-7177-4755-928f-864da168f8fc",
+      "donor_id": "2895f560-8fad-4303-a507-436adc08e43f",
+      "wish_id": "351eb4c5-2e3d-4def-9082-5e4ee9e853e3",
+      "amount": 90.81,
+      "donated_at": "2026-06-07T12:30:59.979000",
+      "message": "For your smile."
+    },
+    {
+      "id": "e7bc49c4-22fb-4a61-b265-3453559cb02f",
+      "donor_id": "8c4a19cf-abac-4920-b147-749dea396eb0",
+      "wish_id": "27fbb1eb-ca34-48f1-9dc3-7a480ab3579d",
+      "amount": 136.31,
+      "donated_at": "2026-08-14T08:00:43.287024",
+      "message": null
+    },
+    {
+      "id": "bf2cf928-e9ca-418e-b4ba-03e699c1b8ad",
+      "donor_id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "wish_id": "d3aa4316-3f88-4d55-90e6-c3bd905bec29",
+      "amount": 54.61,
+      "donated_at": "2026-08-10T01:33:09.377386",
+      "message": "For your smile."
+    },
+    {
+      "id": "77d5a6ed-a7c1-4be1-bc9a-8806237a075c",
+      "donor_id": "eb865e0c-5994-483f-b2ce-1b855e54a63f",
+      "wish_id": "d530b865-d09b-40d2-a3a8-45a703b02998",
+      "amount": 49.51,
+      "donated_at": "2026-06-06T11:50:14.491640",
+      "message": "For your smile."
+    },
+    {
+      "id": "e88e5279-0b23-4d14-aa2e-1251c34c93c9",
+      "donor_id": "fff8d0b2-05a7-4527-a907-1a233826b1e9",
+      "wish_id": "40c59527-e1e3-4e29-9c1e-23702045f785",
+      "amount": 67.91,
+      "donated_at": "2026-08-17T10:51:39.373016",
+      "message": "Wishing you all the best!"
+    },
+    {
+      "id": "de90d0e7-5a8e-4818-9ce6-a714bf03a975",
+      "donor_id": "eb865e0c-5994-483f-b2ce-1b855e54a63f",
+      "wish_id": "27fbb1eb-ca34-48f1-9dc3-7a480ab3579d",
+      "amount": 163.59,
+      "donated_at": "2026-05-04T09:51:58.989410",
+      "message": null
+    },
+    {
+      "id": "63400cee-2497-4e61-9932-d867bdc1a1b1",
+      "donor_id": "5bd540e7-438a-4765-a271-cd67ae6e6fde",
+      "wish_id": "678ff448-005a-49a3-b375-3c8df62608eb",
+      "amount": 92.2,
+      "donated_at": "2026-07-07T23:21:00.027338",
+      "message": "Wishing you all the best!"
+    },
+    {
+      "id": "a734120f-f0dc-4943-87de-33027b270081",
+      "donor_id": "cb30e568-2e91-42d6-9e34-677d6feb7533",
+      "wish_id": "e08dd334-7987-4a5c-b7a1-b0383ea89fac",
+      "amount": 29.12,
+      "donated_at": "2026-07-23T00:48:53.961864",
+      "message": "For your smile."
+    },
+    {
+      "id": "bbc9dbae-c91c-4390-997d-c52af63bcd77",
+      "donor_id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "wish_id": "65934663-cbff-42af-84ea-88ac0d43ea79",
+      "amount": 45.23,
+      "donated_at": "2026-05-18T22:56:52.305807",
+      "message": "With love."
+    },
+    {
+      "id": "24a7da6f-621e-4bf1-8318-f7450e67f69b",
+      "donor_id": "e4b002a9-95cf-413c-9eb7-eb2e9c2ad461",
+      "wish_id": "866dabba-ff09-4c17-baf7-d0ed14975737",
+      "amount": 314.9,
+      "donated_at": "2026-07-09T18:26:51.375370",
+      "message": "For your smile."
+    },
+    {
+      "id": "217cebc3-fd1b-46c9-a051-d1bf6cc105c9",
+      "donor_id": "fff8d0b2-05a7-4527-a907-1a233826b1e9",
+      "wish_id": "4f085402-8a5d-4103-bd9b-2aadf5e075f1",
+      "amount": 36.45,
+      "donated_at": "2026-08-29T10:14:26.367430",
+      "message": null
+    },
+    {
+      "id": "9cd0f67f-ffb4-430d-ba70-6dafe35489cd",
+      "donor_id": "eb865e0c-5994-483f-b2ce-1b855e54a63f",
+      "wish_id": "27fbb1eb-ca34-48f1-9dc3-7a480ab3579d",
+      "amount": 178.32,
+      "donated_at": "2026-07-12T14:10:50.488306",
+      "message": "With love."
+    },
+    {
+      "id": "615b064f-ecbc-4ca6-91e0-17df44700317",
+      "donor_id": "69f440e1-b3c4-4a8f-8601-d1997352f48e",
+      "wish_id": "d3aa4316-3f88-4d55-90e6-c3bd905bec29",
+      "amount": 30.82,
+      "donated_at": "2026-09-23T14:21:45.528512",
+      "message": null
+    },
+    {
+      "id": "28b6def5-476b-40d6-b845-d24e197ec0fc",
+      "donor_id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "wish_id": "678ff448-005a-49a3-b375-3c8df62608eb",
+      "amount": 42.39,
+      "donated_at": "2026-05-12T07:36:04.830483",
+      "message": null
+    },
+    {
+      "id": "2f7a5a8e-1400-4e9f-8600-76494464afcf",
+      "donor_id": "94b0b369-fac6-48c0-a7bc-e332107b7c91",
+      "wish_id": "33f4a12c-a7be-416f-a3a4-aadea4f0cfc8",
+      "amount": 115.76,
+      "donated_at": "2026-05-29T15:00:07.351081",
+      "message": null
+    },
+    {
+      "id": "77af8267-da43-4bcd-9160-98753ea34a7a",
+      "donor_id": "6cfbf239-a57b-4bf7-a4e7-63de9cc738bd",
+      "wish_id": "eafa2d07-6ce2-4c7e-8a83-f2ef4f903844",
+      "amount": 91.99,
+      "donated_at": "2026-05-08T10:13:47.576710",
+      "message": "With love."
+    }
+  ]
+}
