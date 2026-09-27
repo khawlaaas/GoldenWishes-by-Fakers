@@ -69,9 +69,9 @@ Donations made on the site are demo donations: the team resets them with one cli
 
 ## How it's built
 
-- **Front-end:** a static site (React 18, Tailwind and Motion One from CDNs, no build step). The layout is editorial and the palette comes from the original Golden Wishes brand.
+- **Front-end:** a static site (React 18, Tailwind and Motion One from CDNs, no build step).
 - **Back-end:** Netlify Functions. They are the only code that talks to the database and to NVIDIA.
-- **Database:** PostgreSQL (Neon). The schema, migrations and seed data are at the root of this repository ([data model](../README.md)). The site connects with a limited database user that cannot change the schema or delete wishes. A database trigger keeps every amount consistent.
+- **Database:** PostgreSQL (Neon). The schema, migrations and seed data are at the root of this repository. The site connects with a limited database user that cannot change the schema or delete wishes. A database trigger keeps every amount consistent.
 
 ```
 index.html · js/ (UI, 3 language files, data layer) · netlify/functions/ (one endpoint per file) · scripts/ (embeddings, translations)
