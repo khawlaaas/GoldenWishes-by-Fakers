@@ -42,7 +42,7 @@ Every AI feature runs on **NVIDIA hosted models** (build.nvidia.com), called fro
 - **No direct payments to individuals.** Money is always attached to a wish and its partner organization. Asking to be paid directly is one of the trust-check red flags.
 - **No photos of children's faces**, ever.
 
-## Try it (3 minutes)
+## Try it
 
 1. **Open** https://goldenwishes-816d6a.netlify.app. The counters show what is still needed right now. Click **ع** at the top: the whole site switches to Arabic, right to left.
 2. **Ask the assistant** (bottom corner): click the Darija example. You get up to 3 wishes, how the 500 MAD is split, a reason for each, and the trace of which NVIDIA model did what. Click **Fund this plan**: the progress bars move.
