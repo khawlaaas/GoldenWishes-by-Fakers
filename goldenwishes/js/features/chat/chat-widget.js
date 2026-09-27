@@ -180,9 +180,10 @@ window.GW = window.GW || {};
         }
 
         // Always labeled (never an icon alone), in the corner where the thumb is, in every language.
+        // Raised 76px: on the live site Netlify injects a badge (about 64px tall) in the bottom corner.
         var launcher = e('button', {
             onClick: function () { setOpen(!open); }, 'data-test': 'chat-launcher', 'aria-expanded': open, 'aria-controls': 'gw-chat',
-            className: 'fixed bottom-4 end-4 md:bottom-6 md:end-6 z-40 items-center gap-2 min-h-[52px] px-5 rounded-full font-semibold text-[15px] press ' + (open ? 'hidden md:inline-flex' : 'inline-flex'),
+            className: 'fixed bottom-[76px] end-4 md:end-6 z-40 items-center gap-2 min-h-[52px] px-5 rounded-full font-semibold text-[15px] press ' + (open ? 'hidden md:inline-flex' : 'inline-flex'),
             style: { backgroundColor: C.purpleDeep, color: C.paper, boxShadow: '0 6px 24px rgba(36,29,42,0.28)' }
         }, e(Icon, { name: open ? 'x' : 'sparkles', size: 18, style: { color: open ? C.paper : C.gold } }), open ? t('common.close') : t('chat.launcher'));
 
@@ -191,7 +192,7 @@ window.GW = window.GW || {};
         var examples = [t('chat.ex1'), t('chat.ex2'), t('chat.ex3')];
         var panel = e('div', {
             id: 'gw-chat', role: 'dialog', 'aria-modal': 'false', 'aria-labelledby': 'gw-chat-title',
-            className: 'fixed z-40 inset-x-0 bottom-0 top-16 md:top-auto md:inset-x-auto md:bottom-24 md:end-6 md:w-[420px] md:h-[min(680px,calc(100vh-130px))] flex flex-col md:rounded-xl border overflow-hidden',
+            className: 'fixed z-40 inset-x-0 bottom-0 top-16 md:top-auto md:inset-x-auto md:bottom-[140px] md:end-6 md:w-[420px] md:h-[min(640px,calc(100vh-210px))] flex flex-col md:rounded-xl border overflow-hidden',
             style: { backgroundColor: C.paper, borderColor: C.line, boxShadow: '0 24px 64px rgba(36,29,42,0.22)' }
         },
             e('div', { className: 'px-5 py-4 flex items-center gap-3 border-b', style: { borderColor: C.line } },
