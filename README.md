@@ -28,7 +28,7 @@ everything needed to get it running.
 
 ## Live demo
 
-`https://goldenwishes.netlify.app`
+'https://goldenwishes-816d6a.netlify.app'
 
 ## Team
 The Fakers
